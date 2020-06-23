@@ -1,3 +1,6 @@
+# Forked from @xzyaoi, plan to copy framework to create a static website for my own notes
+
+
 # Mistakes and Bugs
 
 I am sure there will be bugs and mistakes in the documents. It would be 
